@@ -12,6 +12,13 @@
 <br>
 
 
+## 2022 1학기 공개SW프로젝트 A+
+<img src="https://github.com/Dice15/2022-01-OSSP1-2048-Master/assets/102275981/24a3a20f-54fd-46a5-857d-e471d5bcc267" width="100%">
+<br>
+<br>
+<br>
+
+
 ## 실시간 PVP대전과 다양한 모드를 지원하는 '2048 Master'
 
 * **지원하는 OS**
