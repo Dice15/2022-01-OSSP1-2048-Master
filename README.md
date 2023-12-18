@@ -1,5 +1,9 @@
 ## 2022-01-OSSP1-ElegantSiblings-3
+- 주제: 실시간 PVP대전과 다양한 모드를 지원하는 '2048 Master'<br>
+- 링크: https://github.com/CSID-DGU/2022-01-OSSP1-ElegantSiblings-3?tab=readme-ov-file#2022-01-ossp1-elegantsiblings-3<br>
 <br>
+<br>
+
 
 ## 팀원 역할
 |학과|이름|역할|담당 기술|
